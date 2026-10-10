@@ -200,7 +200,11 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="sum.cpp" />
     <ClCompile Include="TestGitHubProjectPV621.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="sum.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
