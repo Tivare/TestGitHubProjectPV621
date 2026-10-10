@@ -4,5 +4,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="TestGitHubProjectPV621/TestGitHubProjectPV621.vcxproj" />
+  <Project Path="TestGitHubProjectPV621/TestGitHubProjectPV621.vcxproj" Id="6ccfc5ae-698e-4ab9-9451-f7436041cf42" />
 </Solution>
